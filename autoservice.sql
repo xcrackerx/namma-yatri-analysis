@@ -2,7 +2,6 @@
 -- Delhi Technological University
 -- mohdibrahimmallick@gmail.com
 
--- Dataset: https://docs.google.com/spreadsheets/d/1CtVI0X40zw3-xjjT5WXa6Pt8o-Ragwu0/edit?usp=sharing&ouid=115201088982897205274&rtpof=true&sd=true
 -- Dataset contains the data for a single day
 
 -- Project: Analysis of the Namma Yatri Dataset
